@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "init": "tsc --init",
+    "dev": "tsc 1.ts",
+    "ex": "tsc ex.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
